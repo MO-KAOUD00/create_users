@@ -1,0 +1,4 @@
+username,fullname,group,shell
+ahmed,Ahmed Ali,developers,/bin/bash
+sara,Sara Mohamed,hr,/bin/bash
+mostafa,Mostafa Hassan,admins,/bin/bash
